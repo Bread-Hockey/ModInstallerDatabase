@@ -20,7 +20,7 @@ Each platform file is a JSON object where the key is a mod folder name and the v
 
 ## How It Works
 
-When mods are installed through **Mod Installer**, the installer automatically submits mod folder names and their corresponding Nexus Mods links to a Firebase Firestore database. New entries are then periodically exported to the JSON files in this repository.
+When mods are installed through **Mod Installer**, the installer automatically submits mod folder names and their corresponding Nexus Mods links to a Firebase Firestore database. **The JSON files in this repository are automatically updated every 15 minutes** with newly submitted entries.
 
 ## License & Attribution
 
