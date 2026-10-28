@@ -1,4 +1,8 @@
 {
+  "!No Honor(Dishonored)": {
+    "id": 5135,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5135"
+  },
   "!QolMenu!": {
     "id": 4423,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4423"
@@ -683,6 +687,10 @@
     "id": 8388,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/8388"
   },
+  "InfinityUltronArmorSS98": {
+    "id": 4510,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4510"
+  },
   "Informati_ninjaway": {
     "id": 8058,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/8058"
@@ -1099,6 +1107,10 @@
     "id": 7361,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/7361"
   },
+  "RomanTownNomad": {
+    "id": 4837,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4837"
+  },
   "Ruterr.RE9Megapack": {
     "id": 6288,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6288"
@@ -1386,6 +1398,10 @@
   "Venator Star Destroyer": {
     "id": 5202,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5202"
+  },
+  "vibroblade": {
+    "id": 3445,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3445"
   },
   "ViltrumiteSoldiersSS98": {
     "id": 4609,
