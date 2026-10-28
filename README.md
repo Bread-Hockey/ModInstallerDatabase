@@ -10,13 +10,18 @@ A community-built database for [**Blade & Sorcery**](https://www.nexusmods.com/b
 | `nomadMods.json` | Nomad mod folder names mapped to Nexus Mods URLs |
 | `lastSynced.json` | Tracks last synced mods to retrieve only newly submitted records from Firestore |
 
-Each platform file is a JSON object where the key is a mod folder name and the value is its Nexus Mods page:
+Each platform file is a JSON object where the key is a mod folder name and the value contains its Nexus Mods ID and corresponding page URL:
 
 ```json
 {
-  "!QolMenu!": "https://www.nexusmods.com/bladeandsorcery/mods/11243"
+  "!QolMenu!": {
+    "id": 4423,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4423"
+  }
 }
 ```
+
+The `id` is automatically extracted from the Nexus Mods URL.
 
 ## How It Works
 
