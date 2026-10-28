@@ -1,170 +1,690 @@
 {
-  "!QolMenu!": "https://www.nexusmods.com/bladeandsorcery/mods/11243",
-  "(UAO) Ultraviolence Audio": "https://www.nexusmods.com/bladeandsorcery/mods/5936",
-  "\u2606 Kahnum - Mystic Sai Mastery 2": "https://www.nexusmods.com/bladeandsorcery/mods/11071",
-  "Arcana": "https://www.nexusmods.com/bladeandsorcery/mods/11980",
-  "Automail": "https://www.nexusmods.com/bladeandsorcery/mods/7178",
-  "Automail Reforged": "https://www.nexusmods.com/bladeandsorcery/mods/10326",
-  "Batclaw": "https://www.nexusmods.com/bladeandsorcery/mods/12984",
-  "BEO4": "https://www.nexusmods.com/bladeandsorcery/mods/10726",
-  "BEOC": "https://www.nexusmods.com/bladeandsorcery/mods/12228",
-  "BlackWall": "https://www.nexusmods.com/bladeandsorcery/mods/13838",
-  "BladeAndQuirks": "https://www.nexusmods.com/bladeandsorcery/mods/14701",
-  "Blaze\u0027s Draupnir Spear": "https://www.nexusmods.com/bladeandsorcery/mods/12446",
-  "Blaze\u0027s Spiderman Pack": "https://www.nexusmods.com/bladeandsorcery/mods/12564",
-  "BloodManipulationCT": "https://www.nexusmods.com/bladeandsorcery/mods/13623",
-  "BoogieWoogieCT": "https://www.nexusmods.com/bladeandsorcery/mods/13392",
-  "Bullseye": "https://www.nexusmods.com/bladeandsorcery/mods/14162",
-  "CameraTools": "https://www.nexusmods.com/bladeandsorcery/mods/12194",
-  "Chip\u0027s Destruction": "https://www.nexusmods.com/bladeandsorcery/mods/14806",
-  "ChristmasDecor": "https://www.nexusmods.com/bladeandsorcery/mods/11288",
-  "Corruption": "https://www.nexusmods.com/bladeandsorcery/mods/13293",
-  "CrackShangChi": "https://www.nexusmods.com/bladeandsorcery/mods/14516",
-  "CrowfeatherPCVR": "https://www.nexusmods.com/bladeandsorcery/mods/14876",
-  "CursedEnergySystemRefurbished": "https://www.nexusmods.com/bladeandsorcery/mods/14392",
-  "CursedTools": "https://www.nexusmods.com/bladeandsorcery/mods/13400",
-  "CustomAvatarFramework": "https://www.nexusmods.com/bladeandsorcery/mods/3762",
-  "Cyberpunk2077": "https://www.nexusmods.com/bladeandsorcery/mods/9094",
-  "Dead by Daylight Mod": "https://www.nexusmods.com/bladeandsorcery/mods/6181",
-  "DeadlySentencing": "https://www.nexusmods.com/bladeandsorcery/mods/13356",
-  "Dildo": "https://www.nexusmods.com/bladeandsorcery/mods/7219",
-  "DioSpell": "https://www.nexusmods.com/bladeandsorcery/mods/8417",
-  "DoctorStrange": "https://www.nexusmods.com/bladeandsorcery/mods/14859",
-  "DomainExpansionFramework": "https://www.nexusmods.com/bladeandsorcery/mods/12180",
-  "DragonFollower": "https://www.nexusmods.com/bladeandsorcery/mods/14150",
-  "EarthBending": "https://www.nexusmods.com/bladeandsorcery/mods/2310",
-  "EISMegaPack": "https://www.nexusmods.com/bladeandsorcery/mods/8076",
-  "Eminence Pack": "https://www.nexusmods.com/bladeandsorcery/mods/13115",
-  "Eve": "https://www.nexusmods.com/bladeandsorcery/mods/13239",
-  "Fist fight NPCs": "https://www.nexusmods.com/bladeandsorcery/mods/10802",
-  "ForceDrain": "https://www.nexusmods.com/bladeandsorcery/mods/14649",
-  "FromSoftwareParryRekindled": "https://www.nexusmods.com/bladeandsorcery/mods/13622",
-  "Frozone": "https://www.nexusmods.com/bladeandsorcery/mods/5780",
-  "Gimet": "https://www.nexusmods.com/bladeandsorcery/mods/14475",
-  "GoddessSwordSW": "https://www.nexusmods.com/bladeandsorcery/mods/12604",
-  "Gojo": "https://www.nexusmods.com/bladeandsorcery/mods/12622",
-  "Gojo U12": "https://www.nexusmods.com/bladeandsorcery/mods/9658",
-  "GoreEnhanced": "https://www.nexusmods.com/bladeandsorcery/mods/14765",
-  "GothNPC": "https://www.nexusmods.com/bladeandsorcery/mods/14874",
-  "GrapplingHook": "https://www.nexusmods.com/bladeandsorcery/mods/10241",
-  "GreenLantern": "https://www.nexusmods.com/bladeandsorcery/mods/12455",
-  "Gura Gura no Mi": "https://www.nexusmods.com/bladeandsorcery/mods/13783",
-  "GyroSteelBall": "https://www.nexusmods.com/bladeandsorcery/mods/12408",
-  "HalloweenDecor": "https://www.nexusmods.com/bladeandsorcery/mods/12783",
-  "HandSigns": "https://www.nexusmods.com/bladeandsorcery/mods/13019",
-  "HankY\u0027s Assassin\u0027s Creed Armor Pack": "https://www.nexusmods.com/bladeandsorcery/mods/8039",
-  "HankY\u0027s Deathstroke\u0027s Armor": "https://www.nexusmods.com/bladeandsorcery/mods/8012",
-  "HarryPotterDuelingOverhaul": "https://www.nexusmods.com/bladeandsorcery/mods/12482",
-  "HJ_ArrowRecurveBow": "https://www.nexusmods.com/bladeandsorcery/mods/4477",
-  "HJ_ArrowTrickArrows": "https://www.nexusmods.com/bladeandsorcery/mods/9407",
-  "HJ_AssassinsArsenal": "https://www.nexusmods.com/bladeandsorcery/mods/10769",
-  "HJ_BetterMovement": "https://www.nexusmods.com/bladeandsorcery/mods/4684",
-  "HJ_Choking": "https://www.nexusmods.com/bladeandsorcery/mods/4316",
-  "HJ_Cleanse": "https://www.nexusmods.com/bladeandsorcery/mods/9390",
-  "HJ_DynamicBreakables": "https://www.nexusmods.com/bladeandsorcery/mods/8586",
-  "HJ_Ethnicity": "https://www.nexusmods.com/bladeandsorcery/mods/7386",
-  "HJ_Extraction": "https://www.nexusmods.com/bladeandsorcery/mods/11962",
-  "HJ_FirearmAIFix": "https://www.nexusmods.com/bladeandsorcery/mods/8734",
-  "HJ_Heartbreaker": "https://www.nexusmods.com/bladeandsorcery/mods/4554",
-  "HJ_HelmetPack": "https://www.nexusmods.com/bladeandsorcery/mods/6643",
-  "HJ_ItemWheelMenuFramework": "https://www.nexusmods.com/bladeandsorcery/mods/9406",
-  "HJ_JawPhysics": "https://www.nexusmods.com/bladeandsorcery/mods/6077",
-  "HJ_PlayerLipSync": "https://www.nexusmods.com/bladeandsorcery/mods/5790",
-  "HJ_RidingHorse": "https://www.nexusmods.com/bladeandsorcery/mods/10353",
-  "HJ_SheathFramework": "https://www.nexusmods.com/bladeandsorcery/mods/6634",
-  "HJ_Threat": "https://www.nexusmods.com/bladeandsorcery/mods/6830",
-  "HJ_Trajectory": "https://www.nexusmods.com/bladeandsorcery/mods/6737",
-  "HoloaXionPortalGun": "https://www.nexusmods.com/bladeandsorcery/mods/14720",
-  "Holy": "https://www.nexusmods.com/bladeandsorcery/mods/12732",
-  "HomeWaves": "https://www.nexusmods.com/bladeandsorcery/mods/12451",
-  "HomoShrine": "https://www.nexusmods.com/bladeandsorcery/mods/13616",
-  "HomoYujiShrine": "https://www.nexusmods.com/bladeandsorcery/mods/14342",
-  "Incarnate": "https://www.nexusmods.com/bladeandsorcery/mods/14225",
-  "InfinityBlade\u0026Sorcery": "https://www.nexusmods.com/bladeandsorcery/mods/5476",
-  "InfinityGauntlet": "https://www.nexusmods.com/bladeandsorcery/mods/14609",
-  "Informati_ninjaway": "https://www.nexusmods.com/bladeandsorcery/mods/14132",
-  "Injustice 2 Superman": "https://www.nexusmods.com/bladeandsorcery/mods/6568",
-  "Iron Man Armory": "https://www.nexusmods.com/bladeandsorcery/mods/10801",
-  "Jackpot": "https://www.nexusmods.com/bladeandsorcery/mods/12378",
-  "JujutsuSorcerers": "https://www.nexusmods.com/bladeandsorcery/mods/13320",
-  "K O K Os special weapons v1.3": "https://www.nexusmods.com/bladeandsorcery/mods/14390",
-  "Legacy of the Creed": "https://www.nexusmods.com/bladeandsorcery/mods/12499",
-  "LevelMaps": "https://www.nexusmods.com/bladeandsorcery/mods/12472",
-  "LimbusHealthBar": "https://www.nexusmods.com/bladeandsorcery/mods/13285",
-  "Limitless": "https://www.nexusmods.com/bladeandsorcery/mods/14646",
-  "LimitlessCT": "https://www.nexusmods.com/bladeandsorcery/mods/12336",
-  "LorexiueCosmicGarou": "https://www.nexusmods.com/bladeandsorcery/mods/14823",
-  "Mahoraga": "https://www.nexusmods.com/bladeandsorcery/mods/14360",
-  "Malorian Arms 3516": "https://www.nexusmods.com/bladeandsorcery/mods/9205",
-  "MarvelWeapons": "https://www.nexusmods.com/bladeandsorcery/mods/14609",
-  "Medieval MegaPack": "https://www.nexusmods.com/bladeandsorcery/mods/1019",
-  "Megumi Fushiguro Scultore3D": "https://www.nexusmods.com/bladeandsorcery/mods/10864",
-  "MeleeFighters": "https://www.nexusmods.com/bladeandsorcery/mods/10783",
-  "ModernOverhaul": "https://www.nexusmods.com/bladeandsorcery/mods/11325",
-  "ModularShotgunPack": "https://www.nexusmods.com/bladeandsorcery/mods/3067",
-  "MotionControlledFlying": "https://www.nexusmods.com/bladeandsorcery/mods/14807",
-  "MultiplayerMod": "https://www.nexusmods.com/bladeandsorcery/mods/6888",
-  "NanoArmory": "https://www.nexusmods.com/bladeandsorcery/mods/14438",
-  "NoSurrender": "https://www.nexusmods.com/bladeandsorcery/mods/13041",
-  "NPCSpawner": "https://www.nexusmods.com/bladeandsorcery/mods/3716",
-  "Nude": "https://www.nexusmods.com/bladeandsorcery/mods/4849",
-  "Palp Brains \u002B Attacks": "https://www.nexusmods.com/bladeandsorcery/mods/12107",
-  "Portal Gun": "https://www.nexusmods.com/bladeandsorcery/mods/14723",
-  "ProjectionSorcery": "https://www.nexusmods.com/bladeandsorcery/mods/13384",
-  "ProjectV": "https://www.nexusmods.com/bladeandsorcery/mods/14851",
-  "Quicksilver": "https://www.nexusmods.com/bladeandsorcery/mods/13338",
-  "RaidenMGS4": "https://www.nexusmods.com/bladeandsorcery/mods/13175",
-  "RealisticBleeding": "https://www.nexusmods.com/bladeandsorcery/mods/4375",
-  "ReplacementArm": "https://www.nexusmods.com/bladeandsorcery/mods/11159",
-  "ReversalRed": "https://www.nexusmods.com/bladeandsorcery/mods/11001",
-  "RingFramework": "https://www.nexusmods.com/bladeandsorcery/mods/12452",
-  "Sans": "https://www.nexusmods.com/bladeandsorcery/mods/14852",
-  "ScorpSpear": "https://www.nexusmods.com/bladeandsorcery/mods/7872",
-  "Sekiro Parries": "https://www.nexusmods.com/bladeandsorcery/mods/11242",
-  "SentrySummon": "https://www.nexusmods.com/bladeandsorcery/mods/14775",
-  "Shatterblade": "https://www.nexusmods.com/bladeandsorcery/mods/4259",
-  "ShotgunGrappleExtension": "https://www.nexusmods.com/bladeandsorcery/mods/12132",
-  "ShrineRemastered": "https://www.nexusmods.com/bladeandsorcery/mods/14394",
-  "SimpleFirearmsFramework": "https://www.nexusmods.com/bladeandsorcery/mods/2057",
-  "SkyBridgeDay": "https://www.nexusmods.com/bladeandsorcery/mods/10549",
-  "SkyeEwberSheaths": "https://www.nexusmods.com/bladeandsorcery/mods/13212",
-  "Snap": "https://www.nexusmods.com/bladeandsorcery/mods/9177",
-  "Soldier Boys chest beam": "https://www.nexusmods.com/bladeandsorcery/mods/11203",
-  "SoldierBoy": "https://www.nexusmods.com/bladeandsorcery/mods/9880",
-  "SorcererFramework": "https://www.nexusmods.com/bladeandsorcery/mods/12759",
-  "SpeedRunTimer": "https://www.nexusmods.com/bladeandsorcery/mods/10439",
-  "Spin": "https://www.nexusmods.com/bladeandsorcery/mods/12953",
-  "SPNSmite": "https://www.nexusmods.com/bladeandsorcery/mods/14561",
-  "Star Wars Lightsabers": "https://www.nexusmods.com/bladeandsorcery/mods/3260",
-  "StarPlatinum(U12)": "https://www.nexusmods.com/bladeandsorcery/mods/8473",
-  "SuccubusGirl": "https://www.nexusmods.com/bladeandsorcery/mods/5631",
-  "SupermanDC": "https://www.nexusmods.com/bladeandsorcery/mods/12236",
-  "Supernova": "https://www.nexusmods.com/bladeandsorcery/mods/8377",
-  "TamilNPC": "https://www.nexusmods.com/bladeandsorcery/mods/14864",
-  "TanBladeHino": "https://www.nexusmods.com/bladeandsorcery/mods/1",
-  "TemplarWristBladeRemastered": "https://www.nexusmods.com/bladeandsorcery/mods/7131",
-  "The Outer Rim Dungeon Add-on": "https://www.nexusmods.com/bladeandsorcery/mods/12139",
-  "TheWorld": "https://www.nexusmods.com/bladeandsorcery/mods/14860",
-  "Time Stop": "https://www.nexusmods.com/bladeandsorcery/mods/13920",
-  "TitanShifting": "https://www.nexusmods.com/bladeandsorcery/mods/14396",
-  "TojisArsenal": "https://www.nexusmods.com/bladeandsorcery/mods/9193",
-  "TotT": "https://www.nexusmods.com/bladeandsorcery/mods/7387",
-  "TwoHandedNPCRemake": "https://www.nexusmods.com/bladeandsorcery/mods/14139",
-  "UGM": "https://www.nexusmods.com/bladeandsorcery/mods/9729",
-  "Ultrakill": "https://www.nexusmods.com/bladeandsorcery/mods/12882",
-  "Ultrakill Parrying": "https://www.nexusmods.com/bladeandsorcery/mods/14676",
-  "Vanila\u002B\u002BRemake": "https://www.nexusmods.com/bladeandsorcery/mods/14406",
-  "Viltrumite": "https://www.nexusmods.com/bladeandsorcery/mods/11699",
-  "ViltrumiteSpell": "https://www.nexusmods.com/bladeandsorcery/mods/13559",
-  "Winchester Lever Action Rifle 1873": "https://www.nexusmods.com/bladeandsorcery/mods/8441",
-  "WM94_BlackHoleSpell": "https://www.nexusmods.com/bladeandsorcery/mods/7541",
-  "WolverinePS5": "https://www.nexusmods.com/bladeandsorcery/mods/14496",
-  "WristMountedHiddenBlade": "https://www.nexusmods.com/bladeandsorcery/mods/12606",
-  "YakaArrow": "https://www.nexusmods.com/bladeandsorcery/mods/8069",
-  "Yamato": "https://www.nexusmods.com/bladeandsorcery/mods/3982",
-  "YujiDivergentFist": "https://www.nexusmods.com/bladeandsorcery/mods/9194",
-  "YUTA-KATANA": "https://www.nexusmods.com/bladeandsorcery/mods/12461",
-  "YutaTechnique": "https://www.nexusmods.com/bladeandsorcery/mods/13903",
-  "Zandatsu": "https://www.nexusmods.com/bladeandsorcery/mods/14721",
-  "ZenitsuNichirin": "https://www.nexusmods.com/bladeandsorcery/mods/12967"
+  "!QolMenu!": {
+    "id": 11243,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11243"
+  },
+  "(UAO) Ultraviolence Audio": {
+    "id": 5936,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/5936"
+  },
+  "\u2606 Kahnum - Mystic Sai Mastery 2": {
+    "id": 11071,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11071"
+  },
+  "Arcana": {
+    "id": 11980,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11980"
+  },
+  "Automail": {
+    "id": 7178,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7178"
+  },
+  "Automail Reforged": {
+    "id": 10326,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10326"
+  },
+  "Batclaw": {
+    "id": 12984,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12984"
+  },
+  "BEO4": {
+    "id": 10726,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10726"
+  },
+  "BEOC": {
+    "id": 12228,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12228"
+  },
+  "BlackWall": {
+    "id": 13838,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13838"
+  },
+  "BladeAndQuirks": {
+    "id": 14701,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14701"
+  },
+  "Blaze\u0027s Draupnir Spear": {
+    "id": 12446,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12446"
+  },
+  "Blaze\u0027s Spiderman Pack": {
+    "id": 12564,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12564"
+  },
+  "BloodManipulationCT": {
+    "id": 13623,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13623"
+  },
+  "BoogieWoogieCT": {
+    "id": 13392,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13392"
+  },
+  "Bullseye": {
+    "id": 14162,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14162"
+  },
+  "CameraTools": {
+    "id": 12194,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12194"
+  },
+  "Chip\u0027s Destruction": {
+    "id": 14806,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14806"
+  },
+  "ChristmasDecor": {
+    "id": 11288,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11288"
+  },
+  "Corruption": {
+    "id": 13293,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13293"
+  },
+  "CrackShangChi": {
+    "id": 14516,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14516"
+  },
+  "CrowfeatherPCVR": {
+    "id": 14876,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14876"
+  },
+  "CursedEnergySystemRefurbished": {
+    "id": 14392,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14392"
+  },
+  "CursedTools": {
+    "id": 13400,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13400"
+  },
+  "CustomAvatarFramework": {
+    "id": 3762,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/3762"
+  },
+  "Cyberpunk2077": {
+    "id": 9094,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9094"
+  },
+  "Dead by Daylight Mod": {
+    "id": 6181,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6181"
+  },
+  "DeadlySentencing": {
+    "id": 13356,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13356"
+  },
+  "Dildo": {
+    "id": 7219,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7219"
+  },
+  "DioSpell": {
+    "id": 8417,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8417"
+  },
+  "DoctorStrange": {
+    "id": 14859,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14859"
+  },
+  "DomainExpansionFramework": {
+    "id": 12180,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12180"
+  },
+  "DragonFollower": {
+    "id": 14150,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14150"
+  },
+  "EarthBending": {
+    "id": 2310,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/2310"
+  },
+  "EISMegaPack": {
+    "id": 8076,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8076"
+  },
+  "Eminence Pack": {
+    "id": 13115,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13115"
+  },
+  "Eve": {
+    "id": 13239,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13239"
+  },
+  "Fist fight NPCs": {
+    "id": 10802,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10802"
+  },
+  "ForceDrain": {
+    "id": 14649,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14649"
+  },
+  "FromSoftwareParryRekindled": {
+    "id": 13622,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13622"
+  },
+  "Frozone": {
+    "id": 5780,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/5780"
+  },
+  "Gimet": {
+    "id": 14475,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14475"
+  },
+  "GoddessSwordSW": {
+    "id": 12604,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12604"
+  },
+  "Gojo": {
+    "id": 12622,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12622"
+  },
+  "Gojo U12": {
+    "id": 9658,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9658"
+  },
+  "GoreEnhanced": {
+    "id": 14765,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14765"
+  },
+  "GothNPC": {
+    "id": 14874,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14874"
+  },
+  "GrapplingHook": {
+    "id": 10241,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10241"
+  },
+  "GreenLantern": {
+    "id": 12455,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12455"
+  },
+  "Gura Gura no Mi": {
+    "id": 13783,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13783"
+  },
+  "GyroSteelBall": {
+    "id": 12408,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12408"
+  },
+  "HalloweenDecor": {
+    "id": 12783,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12783"
+  },
+  "HandSigns": {
+    "id": 13019,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13019"
+  },
+  "HankY\u0027s Assassin\u0027s Creed Armor Pack": {
+    "id": 8039,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8039"
+  },
+  "HankY\u0027s Deathstroke\u0027s Armor": {
+    "id": 8012,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8012"
+  },
+  "HarryPotterDuelingOverhaul": {
+    "id": 12482,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12482"
+  },
+  "HJ_ArrowRecurveBow": {
+    "id": 4477,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4477"
+  },
+  "HJ_ArrowTrickArrows": {
+    "id": 9407,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9407"
+  },
+  "HJ_AssassinsArsenal": {
+    "id": 10769,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10769"
+  },
+  "HJ_BetterMovement": {
+    "id": 4684,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4684"
+  },
+  "HJ_Choking": {
+    "id": 4316,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4316"
+  },
+  "HJ_Cleanse": {
+    "id": 9390,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9390"
+  },
+  "HJ_DynamicBreakables": {
+    "id": 8586,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8586"
+  },
+  "HJ_Ethnicity": {
+    "id": 7386,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7386"
+  },
+  "HJ_Extraction": {
+    "id": 11962,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11962"
+  },
+  "HJ_FirearmAIFix": {
+    "id": 8734,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8734"
+  },
+  "HJ_Heartbreaker": {
+    "id": 4554,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4554"
+  },
+  "HJ_HelmetPack": {
+    "id": 6643,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6643"
+  },
+  "HJ_ItemWheelMenuFramework": {
+    "id": 9406,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9406"
+  },
+  "HJ_JawPhysics": {
+    "id": 6077,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6077"
+  },
+  "HJ_PlayerLipSync": {
+    "id": 5790,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/5790"
+  },
+  "HJ_RidingHorse": {
+    "id": 10353,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10353"
+  },
+  "HJ_SheathFramework": {
+    "id": 6634,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6634"
+  },
+  "HJ_Threat": {
+    "id": 6830,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6830"
+  },
+  "HJ_Trajectory": {
+    "id": 6737,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6737"
+  },
+  "HoloaXionPortalGun": {
+    "id": 14720,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14720"
+  },
+  "Holy": {
+    "id": 12732,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12732"
+  },
+  "Homelander": {
+    "id": 10140,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10140"
+  },
+  "HomeWaves": {
+    "id": 12451,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12451"
+  },
+  "HomoShrine": {
+    "id": 13616,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13616"
+  },
+  "HomoYujiShrine": {
+    "id": 14342,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14342"
+  },
+  "Incarnate": {
+    "id": 14225,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14225"
+  },
+  "InfinityBlade\u0026Sorcery": {
+    "id": 5476,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/5476"
+  },
+  "InfinityGauntlet": {
+    "id": 14609,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14609"
+  },
+  "Informati_ninjaway": {
+    "id": 14132,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14132"
+  },
+  "Injustice 2 Superman": {
+    "id": 6568,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6568"
+  },
+  "Iron Man Armory": {
+    "id": 10801,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10801"
+  },
+  "Jackpot": {
+    "id": 12378,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12378"
+  },
+  "JujutsuSorcerers": {
+    "id": 13320,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13320"
+  },
+  "K O K Os special weapons v1.3": {
+    "id": 14390,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14390"
+  },
+  "Lanterns": {
+    "id": 14762,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14762"
+  },
+  "Legacy of the Creed": {
+    "id": 12499,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12499"
+  },
+  "LevelMaps": {
+    "id": 12472,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12472"
+  },
+  "LimbusHealthBar": {
+    "id": 13285,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13285"
+  },
+  "Limitless": {
+    "id": 14646,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14646"
+  },
+  "LimitlessCT": {
+    "id": 12336,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12336"
+  },
+  "LorexiueCosmicGarou": {
+    "id": 14823,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14823"
+  },
+  "Mahoraga": {
+    "id": 14360,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14360"
+  },
+  "Malorian Arms 3516": {
+    "id": 9205,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9205"
+  },
+  "MarvelWeapons": {
+    "id": 14609,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14609"
+  },
+  "Medieval MegaPack": {
+    "id": 1019,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/1019"
+  },
+  "Megumi Fushiguro Scultore3D": {
+    "id": 10864,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10864"
+  },
+  "MeleeFighters": {
+    "id": 10783,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10783"
+  },
+  "ModernOverhaul": {
+    "id": 11325,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11325"
+  },
+  "ModularShotgunPack": {
+    "id": 3067,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/3067"
+  },
+  "MotionControlledFlying": {
+    "id": 14807,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14807"
+  },
+  "MultiplayerMod": {
+    "id": 6888,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/6888"
+  },
+  "NanoArmory": {
+    "id": 14438,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14438"
+  },
+  "NoSurrender": {
+    "id": 13041,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13041"
+  },
+  "NPCSpawner": {
+    "id": 3716,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/3716"
+  },
+  "Nude": {
+    "id": 4849,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4849"
+  },
+  "Palp Brains \u002B Attacks": {
+    "id": 12107,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12107"
+  },
+  "piercing punch": {
+    "id": 7365,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7365"
+  },
+  "Portal Gun": {
+    "id": 14723,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14723"
+  },
+  "ProjectionSorcery": {
+    "id": 13384,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13384"
+  },
+  "ProjectV": {
+    "id": 14851,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14851"
+  },
+  "Quicksilver": {
+    "id": 13338,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13338"
+  },
+  "RaidenMGS4": {
+    "id": 13175,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13175"
+  },
+  "RealisticBleeding": {
+    "id": 4375,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4375"
+  },
+  "ReplacementArm": {
+    "id": 11159,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11159"
+  },
+  "ReversalRed": {
+    "id": 11001,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11001"
+  },
+  "RingFramework": {
+    "id": 12452,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12452"
+  },
+  "Sans": {
+    "id": 14852,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14852"
+  },
+  "ScorpSpear": {
+    "id": 7872,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7872"
+  },
+  "Sekiro Parries": {
+    "id": 11242,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11242"
+  },
+  "SentrySummon": {
+    "id": 14775,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14775"
+  },
+  "Shatterblade": {
+    "id": 4259,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/4259"
+  },
+  "ShotgunGrappleExtension": {
+    "id": 12132,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12132"
+  },
+  "ShrineRemastered": {
+    "id": 14394,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14394"
+  },
+  "SimpleFirearmsFramework": {
+    "id": 2057,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/2057"
+  },
+  "SkyBridgeDay": {
+    "id": 10549,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10549"
+  },
+  "SkyeEwberSheaths": {
+    "id": 13212,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13212"
+  },
+  "Snap": {
+    "id": 9177,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9177"
+  },
+  "Soldier Boys chest beam": {
+    "id": 11203,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11203"
+  },
+  "SoldierBoy": {
+    "id": 9880,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9880"
+  },
+  "SorcererFramework": {
+    "id": 12759,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12759"
+  },
+  "SpeedRunTimer": {
+    "id": 10439,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/10439"
+  },
+  "Spider-Man": {
+    "id": 12850,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12850"
+  },
+  "Spin": {
+    "id": 12953,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12953"
+  },
+  "SPNSmite": {
+    "id": 14561,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14561"
+  },
+  "Star Wars Lightsabers": {
+    "id": 3260,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/3260"
+  },
+  "StarPlatinum(U12)": {
+    "id": 8473,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8473"
+  },
+  "SuccubusGirl": {
+    "id": 5631,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/5631"
+  },
+  "SupermanDC": {
+    "id": 12236,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12236"
+  },
+  "Supernova": {
+    "id": 8377,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8377"
+  },
+  "TamilNPC": {
+    "id": 14864,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14864"
+  },
+  "TanBladeHino": {
+    "id": 1,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/1"
+  },
+  "TemplarWristBladeRemastered": {
+    "id": 7131,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7131"
+  },
+  "The Outer Rim Dungeon Add-on": {
+    "id": 12139,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12139"
+  },
+  "TheWorld": {
+    "id": 14860,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14860"
+  },
+  "Time Stop": {
+    "id": 13920,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13920"
+  },
+  "TitanShifting": {
+    "id": 14396,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14396"
+  },
+  "TojisArsenal": {
+    "id": 9193,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9193"
+  },
+  "TotT": {
+    "id": 7387,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7387"
+  },
+  "TwoHandedNPCRemake": {
+    "id": 14139,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14139"
+  },
+  "UGM": {
+    "id": 9729,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9729"
+  },
+  "Ultrakill": {
+    "id": 12882,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12882"
+  },
+  "Ultrakill Parrying": {
+    "id": 14676,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14676"
+  },
+  "Vanila\u002B\u002BRemake": {
+    "id": 14406,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14406"
+  },
+  "Viltrumite": {
+    "id": 11699,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/11699"
+  },
+  "ViltrumiteSpell": {
+    "id": 13559,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13559"
+  },
+  "Winchester Lever Action Rifle 1873": {
+    "id": 8441,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8441"
+  },
+  "WM94_BlackHoleSpell": {
+    "id": 7541,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/7541"
+  },
+  "WolverinePS5": {
+    "id": 14496,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14496"
+  },
+  "WristMountedHiddenBlade": {
+    "id": 12606,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12606"
+  },
+  "YakaArrow": {
+    "id": 8069,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/8069"
+  },
+  "Yamato": {
+    "id": 3982,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/3982"
+  },
+  "YujiDivergentFist": {
+    "id": 9194,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/9194"
+  },
+  "YUTA-KATANA": {
+    "id": 12461,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12461"
+  },
+  "YutaTechnique": {
+    "id": 13903,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/13903"
+  },
+  "Zandatsu": {
+    "id": 14721,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/14721"
+  },
+  "ZenitsuNichirin": {
+    "id": 12967,
+    "url": "https://www.nexusmods.com/bladeandsorcery/mods/12967"
+  }
 }
