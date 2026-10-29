@@ -99,6 +99,10 @@
     "id": 6001,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6001"
   },
+  "Batman Beyond": {
+    "id": 2158,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/2158"
+  },
   "Beamsabers": {
     "id": 109,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/109"
@@ -446,10 +450,6 @@
   "ElementalArtifacts": {
     "id": 6327,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6327"
-  },
-  "Enhanced Gravity": {
-    "id": 4349,
-    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4349"
   },
   "Enhanced Lightning": {
     "id": 4348,
@@ -1291,10 +1291,6 @@
     "id": 6317,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6317"
   },
-  "QuirkAnim": {
-    "id": 8244,
-    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/8244"
-  },
   "RaikeSwordSheath": {
     "id": 8060,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/8060"
@@ -1382,6 +1378,10 @@
   "SAOKirito": {
     "id": 5078,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5078"
+  },
+  "SCAR-H": {
+    "id": 3856,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3856"
   },
   "ScarletWitch": {
     "id": 3794,
