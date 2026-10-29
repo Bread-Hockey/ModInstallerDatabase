@@ -231,6 +231,10 @@
     "id": 4224,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4224"
   },
+  "Bullcreek Town": {
+    "id": 5070,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5070"
+  },
   "Bullseye": {
     "id": 7476,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/7476"
@@ -1663,6 +1667,10 @@
     "id": 6082,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6082"
   },
+  "ShinSpell": {
+    "id": 6824,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6824"
+  },
   "Shotgun Pack": {
     "id": 3606,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3606"
@@ -2099,9 +2107,17 @@
     "id": 340,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/340"
   },
+  "WolverineClaws": {
+    "id": 2964,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/2964"
+  },
   "WolverinePS5": {
     "id": 7974,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/7974"
+  },
+  "WolverineRetract": {
+    "id": 668,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/668"
   },
   "WorldsFinest": {
     "id": 7263,
