@@ -319,6 +319,10 @@
     "id": 935,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/935"
   },
+  "chakram": {
+    "id": 4611,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4611"
+  },
   "Chaos Magic": {
     "id": 723,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/723"
@@ -1703,6 +1707,10 @@
     "id": 3048,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3048"
   },
+  "PowerRangersV1": {
+    "id": 5456,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5456"
+  },
   "PrisonMap": {
     "id": 2906,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/2906"
@@ -2570,5 +2578,13 @@
   "ZLSO": {
     "id": 4967,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4967"
+  },
+  "Zoro\u0027s Katana": {
+    "id": 3928,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3928"
+  },
+  "Zoro\u0027sSandai": {
+    "id": 7442,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/7442"
   }
 }
