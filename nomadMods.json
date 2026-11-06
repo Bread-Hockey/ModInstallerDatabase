@@ -683,6 +683,10 @@
     "id": 7706,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/7706"
   },
+  "ClawOfHades": {
+    "id": 2920,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/2920"
+  },
   "Cleanse": {
     "id": 4296,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4296"
@@ -2875,6 +2879,10 @@
     "id": 469,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/469"
   },
+  "NomadKnightsHospitaller": {
+    "id": 3489,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3489"
+  },
   "NomadKnightsTemplar": {
     "id": 3581,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3581"
@@ -4590,5 +4598,9 @@
   "ZoroKatana": {
     "id": 854,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/854"
+  },
+  "Zweihander": {
+    "id": 3042,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3042"
   }
 }
