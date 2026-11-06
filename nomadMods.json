@@ -51,6 +51,10 @@
     "id": 400,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/400"
   },
+  "Airship": {
+    "id": 3659,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/3659"
+  },
   "AK47": {
     "id": 47,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/47"
@@ -2171,6 +2175,10 @@
     "id": 924,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/924"
   },
+  "JapaneseArena": {
+    "id": 4233,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4233"
+  },
   "JapaneseSwordPack": {
     "id": 6396,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/6396"
@@ -4051,6 +4059,10 @@
     "id": 5136,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5136"
   },
+  "TFGSERIES13": {
+    "id": 5162,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5162"
+  },
   "TFGSERIES15": {
     "id": 5239,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5239"
@@ -4071,6 +4083,14 @@
     "id": 4976,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/4976"
   },
+  "TFGSERIES5": {
+    "id": 5009,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5009"
+  },
+  "TFGSERIES6": {
+    "id": 5017,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5017"
+  },
   "TFGSeries6U11": {
     "id": 2854,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/2854"
@@ -4078,6 +4098,10 @@
   "TFGSERIES8": {
     "id": 5032,
     "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5032"
+  },
+  "TFGSERIES9": {
+    "id": 5076,
+    "url": "https://www.nexusmods.com/bladeandsorcerynomad/mods/5076"
   },
   "The Backrooms Nomad": {
     "id": 7297,
